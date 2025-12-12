@@ -39,6 +39,9 @@
             <li>
                 <a href="./janken.php">じゃんけんゲーム (Game Janken)</a>
             </li>
+            <li>
+                <a href="./guess.php">数字当てゲーム (Game Tebak Angka)</a>
+            </li>
             
             </ul>
     </div>
